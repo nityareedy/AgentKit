@@ -3,7 +3,18 @@
 <p align="center">
   <img width="100%" alt="lamatic cover" src="https://github.com/Lamatic/.github/raw/main/linkein-cover.jpg" />
 <a href="https://lamatic.ai"> <br/><br/>
-<img width="300" alt="Lamatic.ai" src="https://cdn.prod.website-files.com/65ef2805bd1160e6402b86cd/6620e093fe2e54612a3f5843_Logo%20white.svg">
+<p align="center">
+  <a href="https://lamatic.ai">
+    <picture>
+      <!-- Dark mode: white logo -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.prod.website-files.com/65ef2805bd1160e6402b86cd/6620e093fe2e54612a3f5843_Logo%20white.svg">
+      <!-- Light mode: black logo -->
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lamatic/AgentKit/raw/main/templates/agentic/reasoning/public/lamatic-logo.png">
+      <!-- Fallback -->
+      <img width="300" alt="Lamatic.ai" src="https://cdn.prod.website-files.com/65ef2805bd1160e6402b86cd/6620e093fe2e54612a3f5843_Logo%20white.svg">
+    </picture>
+  </a>
+</p>
 </a>
 <h2 align="center">Stack to Build Agentic SaaS → 10x faster <br /></h2>
   <br/>
